@@ -1,3 +1,7 @@
 .contacts-block{
-    display: block;
+    display: none;
+    margin-bottom: 5px;
+}
+.contacts-block .qwe{
+    opacity: 0;
 }
