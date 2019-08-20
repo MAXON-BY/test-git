@@ -2,6 +2,6 @@
     display: none;
     margin-bottom: 5px;
 }
-.contacts-block{
-    display: block;
+.contacts-block .qwe{
+    opacity: 0;
 }
